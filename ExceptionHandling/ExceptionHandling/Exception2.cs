@@ -38,7 +38,10 @@ namespace ExceptionHandling
             finally 
             {
                 Console.WriteLine("Result is : " + c);
+
             }
+
+            Console.WriteLine("I am prasad");
             Console.ReadLine();
         }
     }
