@@ -41,7 +41,7 @@ namespace ExceptionHandling
 
             }
 
-            Console.WriteLine("I am prasad");
+        
             Console.ReadLine();
         }
     }
