@@ -39,6 +39,7 @@ namespace ExceptionHandling
             {
                 Console.WriteLine("Result is : " + c);
 
+                Console.WriteLine("Result is : " + c);
             }
 
         
@@ -46,3 +47,8 @@ namespace ExceptionHandling
         }
     }
 }
+
+
+
+
+
